@@ -87,7 +87,7 @@
     {
       "id": "3",
       "providerId": "2",
-      "label": "Kuota Menengah Puas",
+      "label": "Kuota Menengah",
       "normalPrice": "50.000",
       "quota": "50 GB",
       "discPrice": "45.950",
